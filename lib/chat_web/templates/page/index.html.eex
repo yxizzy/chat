@@ -1,0 +1,10 @@
+    <h2>Live Chat</h2>
+     <div id="chat-box">
+    </div>
+    
+    <form id="chat-form">
+      <input type="text" placeholder="Enter Your Name" id="user-name"></input>
+      <textarea placeholder="Type Message" id="user-msg"></textarea>
+      <button type="submit">Send</button>
+    </form>
+
